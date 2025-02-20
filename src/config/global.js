@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Parámetros de asignación y soluciones de un sistema',
-    descripcionCurso:
+    Name: 'Parámetros de asignación y soluciones de un sistema',
+    Description:
       'La gestión del mantenimiento industrial es una disciplina que seenfoca en asegurar el funcionamiento eficiente y continuo de los equipos y sistemas en una planta o instalación industrial. Su objetivo principal es minimizar el tiempo de inactividad, reducir loscostos operativos y extender la vida útil de los activosindustriales. Esto se logra a través de una serie de prácticas yestrategias organizadas para el mantenimiento preventivo,correctivo y predictivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
