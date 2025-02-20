@@ -226,7 +226,7 @@ export default {
       autores: [
         {
           nombre: 'Hernando Junior Strusberg Perez',
-          cargo: 'Diseñador web ',
+          cargo: 'Diseñador <em>web<em> ',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
