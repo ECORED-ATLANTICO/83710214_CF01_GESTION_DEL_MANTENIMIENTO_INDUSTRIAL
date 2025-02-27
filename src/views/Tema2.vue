@@ -44,8 +44,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
 
-    p.mb-5 La concepción del mantenimiento describe la estructura organizacional y las políticas que definen cómo se gestiona el mantenimiento. 
-      strong Se deben considerar tres aspectos clave:
+    p.mb-5 La concepción del mantenimiento describe la estructura organizacional y las políticas que definen cómo se gestiona el mantenimiento. Se deben considerar tres aspectos clave:
 
     .row.mb-5.tarjeta.bg03.p-4.align-items-center
       .col-lg-4.col-10.mx-auto.mb-3(data-aos="fade-left")
@@ -280,8 +279,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img13.png', alt='Imagen Decorativa')
 
-        p.mb-3
-          strong Las variables del mantenimiento pueden desarrollarse desde distintas premisas, tal como es presentada la información, en la siguiente infografía: 
+        p.mb-3 Las variables del mantenimiento pueden desarrollarse desde distintas premisas, tal como es presentada la información, en la siguiente infografía: 
             
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
@@ -342,7 +340,7 @@
           span <em>Concepto y relaciones de políticas y acciones de mantenimiento.</em>
 
         figure
-          img(src='@/assets/curso/temas/tema2/img16.svg', alt='Se relata las políticas y acciones de mantenimiento.')
+          img(src='@/assets/curso/temas/tema2/img16.svg', alt='Se relata las políticas y acciones de mantenimiento, la política es una regla que especifica, dependiendo del estado de la variable, el mantenimiento es una regla que especifica que es lo que hay que hacer en una situación en particular.')
         figcaption Fuente: Espinosa, F. 2014.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")

@@ -82,7 +82,7 @@ export default {
         {
           id: 5,
           texto:
-            'PERT (Program Evaluation and Review Technique) es un método para dar apoyo a la planeación, programación y control de una gran cantidad de actividades asociadas a un proyecto.',
+            'PERT <em>(Program Evaluation and Review Technique)</em> es un método para dar apoyo a la planeación, programación y control de una gran cantidad de actividades asociadas a un proyecto.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [

@@ -425,7 +425,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .align-items-start.d-flex.flex-nowrap.mb-3
-          img.img-auto.pr-2(src='@/assets/curso/temas/tema2/img40.svg', alt='Imagen Decorativa')
+    
           p.mb-0.lh-sm <b>Representación gráfica de los tiempos y sus holguras:</b> los tiempos PFI, PFT, UFI, UFT y las holguras, total, libre e independiente se pueden representar por puntos en un eje de tiempos, como se muestra en la siguiente figura. En este eje la actividad i-j puede dibujarse mediante una barra recta cuya longitud es   a la escala del eje. En la figura 7, se muestra la representación gráfica de los tiempos y holguras.
 
     .row.justify-content-center.align-items-center.mb-0
