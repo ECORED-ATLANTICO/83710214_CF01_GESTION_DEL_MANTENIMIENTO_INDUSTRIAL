@@ -284,7 +284,7 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema2/img41.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img41.svg', alt='En la imagen se explica las variables del mantenimiento: Fiabilidad: es la probabilidad de que las instalaciones, máquinas o equipos, se desempeñen satisfactoriamente sin fallar, durante un período determinado, bajo condiciones específicas. Disponibilidad: es la proporción de tiempo durante la cual un sistema o equipo estuvo en condiciones de ser usado. Mantenibilidad: es la probabilidad de que una máquina, equipo o un sistema pueda ser reparado a una condición especificada en un período de tiempo dado, en tanto su mantenimiento sea realizado de acuerdo con ciertas metodologías y recursos determinados con anterioridad. Seguridad: está referida a la integridad del personal, instalaciones, equipos, sistemas, máquinas y sin dejar de lado el medio ambiente. Tiempo de entrega: es el cumplimiento de los plazos previstos, son variables que tienen también su importancia, y para el mantenimiento, el tiempo es un factor preeminente.')
               figcaption Nota: Sena 2024
 
           .tarjeta.color-acento-botones.p-3(x="22.75%" y="32.5%" numero="")
@@ -634,7 +634,7 @@
         ImagenInfografica.color-acento-contenido
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema2/img24.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img24.png', alt='Los principales elementos del ciclo virtuoso son: 1. Diagnóstico y evaluación inicial: análisis de la situación actual, definición de objetivos. 2. Planificación y estrategia: desarrollo de estrategias y asignación de recursos. 3. Implementación: ejecutar el plan y monitoreo y control. 4. Evaluación de resultados: medición del rendimiento y análisis de desviaciones. 5. Retroalimentación y ajuste: revisión y ajuste y lecciones aprendidas. 6. Consolidación y estandarización: estandarización de mejores prácticas y consolidación de cambios. 7. Innovación continua: fomentar la innovación y repetición del ciclo.')
 
           .tarjeta.bg-white.p-3(x="5.7%" y="47.2%" numero="1")
             .h5.mb-2 Diagnóstico y evaluación inicial
