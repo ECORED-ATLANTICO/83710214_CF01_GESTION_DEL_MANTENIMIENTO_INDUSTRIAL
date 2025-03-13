@@ -1,9 +1,7 @@
 # **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
-
-[https://ecoredsena-atlantico.github.io/83710214_CF01_GESTION_DEL_MANTENIMIENTO_INDUSTRIAL/#/](https://ecoredsena-atlantico.github.io/83710214_CF01_GESTION_DEL_MANTENIMIENTO_INDUSTRIAL/#/)
-
+https://ecored-atlantico.github.io/83710214_CF01_GESTION_DEL_MANTENIMIENTO_INDUSTRIAL/
 #
 
 ## **Configuración del proyecto**
