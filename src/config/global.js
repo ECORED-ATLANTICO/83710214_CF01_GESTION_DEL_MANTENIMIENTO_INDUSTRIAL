@@ -106,7 +106,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Gestión delmantenimiento industrial.',
+      tema: 'Gestión del mantenimiento industrial.',
       referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ErIBKdtvhvo',

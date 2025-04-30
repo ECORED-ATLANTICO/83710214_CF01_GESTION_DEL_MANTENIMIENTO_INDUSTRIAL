@@ -17,7 +17,7 @@
       figure.mb-4
         .video
           <iframe width="853" height="480" src="https://www.youtube.com/embed/_FTUtu6Woas" title="Video de Gestión del mantenimiento industrial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        figcaption Video: Sena 2014.
+        figcaption Nota: Sena 2014.
       p.mb-5 La gestión del mantenimiento industrial requiere tener en cuenta las problemáticas propias de cada situación en la empresa, el modelo seleccionado, las soluciones en general y los elementos de las soluciones deben estar basada sobre un conjunto apropiado de parámetros de costo, plazos, rendimientos y evaluación del riesgo.
 
   </template>

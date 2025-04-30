@@ -22,6 +22,8 @@ export default {
       introduccion:
         'Los métodos de programación de actividades CPM/PERT son útiles para la planeación de actividades de cualquier campo profesional, desde la decoración de un edificio hasta la obtención de productos tecnológicos. Desde sus etapas de formulación han sido una herramienta de gran adaptabilidad y de utilización global, dada su practicidad.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!..',
+      titulo_reprobado: 'VUELVA A INTENTARLO..',
       preguntas: [
         {
           id: 1,
