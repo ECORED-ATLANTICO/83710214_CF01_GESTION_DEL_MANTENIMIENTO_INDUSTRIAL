@@ -1,1 +1,1 @@
-module.exports = 'Gestión del mantenimiento industrial'
+module.exports = 'Parámetros de asignación y soluciones de un sistema'
